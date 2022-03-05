@@ -96,6 +96,11 @@ $border-widths: (
     @extend .list-group-item, .list-group-item-primary;
 }
 
+.qr-container {
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
 @import "scss/bootstrap.scss";
 
 #role {
